@@ -15,7 +15,7 @@ cd sveltekit-authjs-prisma-template && pnpm i
 ```
 ## Change the `.env` file
 
-```:
+```py
 DATABASE_URL=
 GOOGLE_ID=
 GOOGLE_SECRET=
