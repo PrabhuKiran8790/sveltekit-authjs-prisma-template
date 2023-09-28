@@ -30,10 +30,7 @@
     class="w-[300px] rounded-lg flex flex-col items-center justify-center"
   >
     <Card.Header>
-      <Card.Title class="text-center">Dall-E Clone | SvelteKit</Card.Title>
-      <Card.Description class="text-center"
-        >AI Image Generation</Card.Description
-      >
+      <Card.Title class="text-center">SvelteKit OAuth</Card.Title>
     </Card.Header>
     <Card.Content class="p-3">
       <div class="flex flex-col items-center justify-center gap-6">
